@@ -1,0 +1,60 @@
+* {
+  font-family: "Manrope", sans-serif !important;
+}
+h1,
+h2,
+h3 {
+  font-family: "Lora", serif !important;
+  text-align: center;
+  font-weight: 700 !important;
+}
+
+table th {
+  font-family: "Lora", serif !important;
+}
+table td {
+  font-weight: 500;
+}
+.ejercicio_dos {
+  padding-block: 2rem;
+}
+
+.ejercicio_dos_titulo {
+  text-decoration: underline;
+  font-size: 2rem;
+}
+
+.ejercicio_dos article h2 {
+  padding-block: 2rem;
+  font-size: 1.25rem;
+}
+
+.ejercicio_dos article p {
+  text-align: center;
+  border: 1px solid black;
+  width: fit-content;
+  margin: auto;
+  padding: 5px;
+  background-color: #eee;
+}
+.destacado {
+  font-weight: bold;
+}
+/*
+Estilos ejercicio 3
+*/
+
+.ejercicio_tres {
+  padding-block: 2rem;
+}
+.ejercicio_tres_titulo {
+  text-decoration: underline;
+}
+.ejercicio_tres article h2 {
+  padding: 2rem;
+}
+.ejercicio_tres article table {
+  width: 90%;
+  max-width: 640px;
+  margin: auto;
+}
